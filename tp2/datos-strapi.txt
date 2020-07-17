@@ -1,0 +1,4 @@
+Criptocurrency:
+symbol => textfield
+volume => float
+marketCap => float
